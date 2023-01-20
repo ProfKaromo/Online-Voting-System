@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Full Date and TimePicker</title>
+	<script src="Test/mootools-core.js" type="text/javascript"></script>
+	<script src="Test/mootools-more.js" type="text/javascript"></script>
+	<script src="Source/Locale.en-US.DatePicker.js" type="text/javascript"></script>
+	<script src="Source/Picker.js" type="text/javascript"></script>
+	<script src="Source/Picker.Attach.js" type="text/javascript"></script>
+	<script src="Source/Picker.Date.js" type="text/javascript"></script>
+	
+	<link rel="stylesheet" href="style.css">
+	<link href="Source/style.css" rel="stylesheet" />
+	<link href="Source/datepicker_bootstrap/datepicker_bootstrap.css" rel="stylesheet">
+
+	<script>
+
+	window.addEvent('domready', function(){
+		new Picker.Date($$('input'), {
+			timePicker: true,
+			positionOffset: {x: 5, y: 0},
+			pickerClass: 'datepicker_bootstrap',
+			useFadeInOut: !Browser.ie
+		});
+	});
+
+	</script>
+
+</head>
+
+<body>
+	<p>
+		Set The Election Date:<br>
+		<form name="frmDate" method="post" action="date_exc.php">
+		<input type="text"><br><br>
+		<input class="button" type="submit" value="SET">
+		</form>
+	</p>
+
+</body>
+</html>

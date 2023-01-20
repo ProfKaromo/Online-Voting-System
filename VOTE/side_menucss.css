@@ -1,0 +1,43 @@
+div#cssmenu{
+	margin: 32px;
+	border: solid 4px #ffff55;
+	border-radius:10px;
+}
+#cssmenu > ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+#cssmenu > ul {
+	display: block;
+	position: relative;
+	width: 150px;
+}
+#cssmenu > ul li {
+		display: block;
+		position: relative;
+		margin: 0;
+		padding: 0;
+		width: 150px;	
+}
+#cssmenu > ul li a {
+			display: block;
+			position: relative;
+			margin: 0;
+			padding: 10px 15px;
+			font-family: Monotype Corsiva,Helvetica, Arial, sans-serif;
+			color: #000000;
+			text-decoration: none;
+			text-shadow: 3px 3px 3px #ff0000;
+			font-size: 15pt;
+			font-weight: 300;
+			background: #33FF33;
+}
+#cssmenu > ul li>a:hover, #cssmenu > ul li:hover>a {
+			color: #336600;
+			background: #ffff55;
+			border-color: black;
+}
+
+	
+	

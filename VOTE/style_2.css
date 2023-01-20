@@ -1,0 +1,36 @@
+body{
+background: #3E9F00; /* For browsers that do not support gradients */
+background: -webkit-linear-gradient(#3E9F00, #CFE700); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#3E9F00, #CFE700); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#3E9F00, #CFE700); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#3E9F00, #CFE700); /* Standard syntax */
+}
+.button {
+background-color:#8CC600;
+padding:5px;
+border-color:#40A000;
+border-radius:7px;
+color:white;
+width:100px;
+height:30px;
+text-align:center;
+font-size: medium;
+font-family:Times New Roman;
+font-weight:bold;
+}
+table{
+border:1px solid #000;
+text-align:center;
+border-radius:10px;
+background:#ffffff;
+}
+td,th{
+text-align:center;
+padding:3px;
+}
+th{
+color:0000ff;
+text-decoration:underline;
+font-size:15pt;
+background:Chartreuse;
+}

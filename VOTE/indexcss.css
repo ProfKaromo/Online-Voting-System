@@ -1,0 +1,142 @@
+body{
+background: #3E9F00; /* For browsers that do not support gradients */
+background: -webkit-linear-gradient(#3E9F00, #CFE700); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#3E9F00, #CFE700); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#3E9F00, #CFE700); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#3E9F00, #CFE700); /* Standard syntax *//
+background-repeat:no-repeat;
+
+overflow-y:hidden;
+}
+div#wrapper{
+width:1024px;
+height:540px;
+background-color:#3E9F00;
+margin-left:220px;
+}
+div#banner{
+width:1024px;
+height:144px;
+background-color:#ff6633;
+text-align:center;
+border-radius: 10px;
+
+-moz-box-shadow: 4px 4px 14px #000;
+-webkit-box-shadow: 4px 4px 14px #000;
+box-shadow: 4px 4px 14px #000;
+}
+div#topmenu{
+width:1024px;
+height:35px;
+background-color:#33FF33;
+}
+div#leftcolumn{
+width:220px;
+height:430px;
+float:left;
+
+background: #62B000; /* For browsers that do not support gradients */
+background: -webkit-linear-gradient(#62B000, #CFE700); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#62B000, #CFE700); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#62B000, #CFE700); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#62B000, #CFE700); /* Standard syntax */
+}
+
+div#content{
+width:584px;
+height:430px;
+background-color:#cc66cc;
+margin-left:220px;
+}
+div#footer{
+width:1024px;
+height:75px;
+background-color:#89C400;
+}
+div#footer_1{
+width:1024px;
+height:75px;
+margin-left:220px;
+background-color:#89C400;
+}
+iframe{
+width:1024px;
+height:498px;
+border:0;
+
+
+background: #62B000; /* For browsers that do not support gradients */
+background: -webkit-linear-gradient(#62B000, #CFE700); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#62B000, #CFE700); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#62B000, #CFE700); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#62B000, #CFE700); /* Standard syntax */
+
+-moz-box-shadow: 4px 4px 14px #000;
+-webkit-box-shadow: 4px 4px 14px #000;
+box-shadow: 4px 4px 14px #000;
+}
+iframe#iframe_1{
+width:804px;
+height:498px;
+border:0;
+
+
+background: #62B000; /* For browsers that do not support gradients */
+background: -webkit-linear-gradient(#62B000, #CFE700); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#62B000, #CFE700); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#62B000, #CFE700); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#62B000, #CFE700); /* Standard syntax */
+
+-moz-box-shadow: 4px 4px 14px #000;
+-webkit-box-shadow: 4px 4px 14px #000;
+box-shadow: 4px 4px 14px #000;
+}
+iframe#iframe_2{
+width:790px;
+height:70px;
+border:0;
+
+
+background: #62B000; /* For browsers that do not support gradients */
+background: -webkit-linear-gradient(#62B000, #CFE700); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#62B000, #CFE700); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#62B000, #CFE700); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#62B000, #CFE700); /* Standard syntax */
+
+-moz-box-shadow: 4px 4px 14px #000;
+-webkit-box-shadow: 4px 4px 14px #000;
+box-shadow: 4px 4px 14px #000;
+}
+iframe#iframe_c{
+width:420px;
+height:420px;
+border:0;
+
+background: #62B000; /* For browsers that do not support gradients */
+background: -webkit-linear-gradient(#62B000, #CFE700); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#62B000, #CFE700); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#62B000, #CFE700); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#62B000, #CFE700); /* Standard syntax */
+}
+iframe#iframe_a{
+width:804px;
+height:430px;
+border:0;
+
+background: #62B000; /* For browsers that do not support gradients */
+background: -webkit-linear-gradient(#62B000, #CFE700); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#62B000, #CFE700); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#62B000, #CFE700); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#62B000, #CFE700); /* Standard syntax */
+}
+iframe#iframe_r{
+width:220px;
+height:230px;
+border:0;
+
+background: #62B000; /* For browsers that do not support gradients */
+background: -webkit-linear-gradient(#62B000, #CFE700); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(#62B000, #CFE700); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(#62B000, #CFE700); /* For Firefox 3.6 to 15 */
+background: linear-gradient(#62B000, #CFE700); /* Standard syntax */
+}
